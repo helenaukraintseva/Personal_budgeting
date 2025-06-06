@@ -1,1 +1,4 @@
-# Personal_budgeting
+# Веб-приложение для учета расходов
+
+## Bootstrapping
+
